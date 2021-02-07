@@ -1,6 +1,5 @@
 package jonass.springframework.msscbeerservice.web.controller;
 
-import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import jonass.springframework.msscbeerservice.web.model.BeerDto;
 import org.junit.jupiter.api.BeforeEach;
